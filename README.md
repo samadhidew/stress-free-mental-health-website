@@ -6,7 +6,7 @@
 - Year - **2022**
 - University - [**NSBM Green University**](https://www.nsbm.ac.lk/)
 - Partner University - [**University of Plymouth**](https://www.plymouth.ac.uk/)
-- Supervisor - **Mr. Pramudya Thilakarathna** - [LinkedIn](https://www.linkedin.com/in/pramudya-tilakaratne-44023896/)
+- Event - [**MADFest**](https://madfest.ieeensbm.org/)
 
 ## Team Members
 - **Anuradha Yapa** - [GitHub](https://github.com/AnuradhaYapa95) | [LinkedIn](https://www.linkedin.com/in/anuradha-yapa/)

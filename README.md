@@ -1,13 +1,7 @@
-# Stress-Free-Mental-Health-Mobile-App
+# Stress-Free-Mental-Health-Website
 ## Project Details
-- Group Name - **CoderUpper**
-- Project Type - **Mobile Application Development**
+- Project Type - **Web Development Using Angular**
 - Batch - **NSBM Batch 20.1**
 - Year - **2022**
 - University - [**NSBM Green University**](https://www.nsbm.ac.lk/)
 - Partner University - [**University of Plymouth**](https://www.plymouth.ac.uk/)
-- Event - [**MADFest**](https://madfest.ieeensbm.org/)
-
-## Team Members
-- **Anuradha Yapa** - [GitHub](https://github.com/AnuradhaYapa95) | [LinkedIn](https://www.linkedin.com/in/anuradha-yapa/)
-- **Samadhi Dewmini** - [GitHub](https://github.com/samadhidew) | [LinkedIn](https://www.linkedin.com/in/samadhi-dewmini-119a4b221/)
